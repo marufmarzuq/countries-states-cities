@@ -1,4 +1,4 @@
-![baner](./baner.png)
+![cover](./cover.png)
 <br/><br/>
 
 # Countries States Cities Database
